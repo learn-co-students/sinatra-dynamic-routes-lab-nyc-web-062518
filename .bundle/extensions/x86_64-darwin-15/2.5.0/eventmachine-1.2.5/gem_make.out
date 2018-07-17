@@ -1,0 +1,16 @@
+current directory: /Users/YY/Flatiron/M2/lab/sinatra-dynamic-routes-lab-nyc-web-062518/.bundle/gems/eventmachine-1.2.5/ext/fastfilereader
+/Users/YY/.rvm/rubies/ruby-2.5.0/bin/ruby -r ./siteconf20180716-1807-yvplyy.rb extconf.rb
+creating Makefile
+
+current directory: /Users/YY/Flatiron/M2/lab/sinatra-dynamic-routes-lab-nyc-web-062518/.bundle/gems/eventmachine-1.2.5/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /Users/YY/Flatiron/M2/lab/sinatra-dynamic-routes-lab-nyc-web-062518/.bundle/gems/eventmachine-1.2.5/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/YY/Flatiron/M2/lab/sinatra-dynamic-routes-lab-nyc-web-062518/.bundle/gems/eventmachine-1.2.5/ext/fastfilereader
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 fastfilereaderext.bundle ./.gem.20180716-1807-m0u6cx
